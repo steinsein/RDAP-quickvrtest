@@ -10,6 +10,5 @@ RDAP-quickvrtest/
 ├── .gitignore                ← Git 제외 대상 목록
 ├── README.md                 ← 이 파일
 └── .streamlit/
-    ├── config.toml           ← UI 테마 설정
-    └── secrets.toml          ← 🔒 Google 인증 정보 (직접 입력 필요)
+    └── config.toml           ← UI 테마 설정    
 ```
