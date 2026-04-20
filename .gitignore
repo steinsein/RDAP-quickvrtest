@@ -1,0 +1,23 @@
+# 인증 정보 — 절대 커밋 금지
+.streamlit/secrets.toml
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# 생성물
+rdap_survey_qr.png
